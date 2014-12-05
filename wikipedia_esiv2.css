@@ -1,0 +1,19 @@
+@-moz-document domain("wikipedia.org") {
+.mw-body {
+max-width:/*[[mw]]*/ !important;
+}
+/*ESI v2 beta core*/
+/* i really want this to be global */
+html { font-size:/*[[size]]*/ !important;}
+*{/*font-size:1rem;*/line-height: /*[[lh]]*/ !important;font-family:/*[[ff]]*/}
+body, div, /*span,*/ applet, object, iframe, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {font-size:1rem !important;}
+h1{font-size:2rem !important}
+h2{font-size:1.5rem !important}
+h3{font-size:1.17rem !important}
+
+select {width: auto !important}
+table.infobox {
+    width: 25rem !important;
+}
+}
