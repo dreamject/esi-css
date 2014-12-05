@@ -1,0 +1,166 @@
+@-moz-document domain("rutracker.org") {
+#logo, DIV[style="padding: 8px 0 0;"][class="tCenter"], #latest_news > TABLE > TBODY > TR > TD:last-child, DIV[style="padding: 8px 0 0 0;"], #page_footer, #adriver-240x120, DIV[style="margin: 4px auto 6px; text-align: center;"] {
+   display: none !important; }
+#page_header {
+   position: fixed !important;
+   top: 0 !important;
+   z-index: 999 !important; }
+#page_header {
+   background: white !important; }
+HTML {
+   overflow-x: auto !important;
+   padding-top: 55px !important;  }
+.topmenu {
+   height: 25px !important;
+   overflow: hidden !important;
+   /* scComment05777284095492219
+border-bottom: 1px black solid !important;*/ }
+.topmenu, #main-nav
+{
+border-radius: 6px !important;
+border-width: 1px !important;
+}
+#main_content_wrap {
+    margin: 0 auto  !important;
+    max-width: 1220px  !important;
+}
+
+.maintitle a, .pagetitle a {
+    font-family: impact !important;
+    font-size: 18px !important;
+    font-stretch: condensed !important;
+    font-weight: 100 !important;
+    text-decoration: none !important;
+}
+.nav a {
+font-size: 13px !important;
+font-family: Arial !important;
+text-decoration: none !important;
+}
+
+.attach td {
+    font-size: 14px  !important;
+}
+
+.post_body {
+    font-size: 16px   !important;
+    line-height: 130%  !important;
+}
+
+.sf_title a {
+    font-size: 14px  !important;
+}
+
+.poster_info p {
+    font-size: 14px  !important;
+    line-height: 130%  !important;
+}
+
+.topictitle, a.topictitle {
+    font-size: 14px  !important;
+    font-weight: normal  !important;
+}
+
+.torTopic, a.torTopic {
+    font-size: 14px  !important;
+}
+
+a.gen, a.med, a.small, a.gensmall {
+    font-size: 14px   !important;
+}
+
+.topmenu td {
+    font-size: 14px  !important;
+}
+
+td.med {
+    font-size: 14px  !important;
+}
+
+div#logo, #sidebar1, td [style="width: 240px !important; vertical-align: top !important; padding-left: 2px !important;"], div#adriver-240x120, div#adriver-468x60, #bn-bot-wrap div, #page_footer, tr.row3.tCenter div#begun-t-user, div#begun-tr, div#tor-fl-bgn, div.sig-body var.postImg {
+    display: none !important;
+}
+
+.prof-tbl h6 {
+    font-size: 14px  !important;
+}
+
+search-text {
+    width: 450px  !important;
+    font-size: 14px   !important;
+}
+
+div#page_content {
+    padding-top: 10px  !important;
+}
+
+#latest_news a {
+    font-size: 15px  !important;
+}
+
+gen, .med, .small, .gensmall {
+    font-size: 14px !important;
+}
+
+div.topmenu {
+    margin: 0  !important;
+}
+
+div.topmenu table tbody tr td {
+    padding-left: 7px  !important;
+}
+
+div.topmenu table tbody tr td+td+td {
+    padding-right: 7px  !important;
+}
+
+legend {
+    font-size: 14px !important;
+    padding: 0 2px 2px  !important;
+}
+
+
+.prof-tbl td {
+    font-size: 14px  !important;
+}
+
+td.small {
+    font-size: 14px   !important;
+}
+
+.topicPG {
+    font-size: 14px  !important;
+}
+
+input, textarea, select {
+    font-size: 14px  !important;
+}
+
+.posted_since {
+    font-size: 14px !important;
+}
+
+.txtb, .txtb:link, .txtb:visited, .txtb:hover {
+    color: #003366 !important;
+    font-size: 14px !important;
+    text-decoration: none !important;
+}
+
+A {
+    text-decoration: none  !important;
+}
+
+A:hover {
+    text-decoration: underline  !important;
+}
+
+div.sp-body.inited a b {
+    font-size: 16px;
+    line-height: 150%;
+}
+
+div.sp-head.folded span {
+    font-size: 16px;
+}
+
+}
