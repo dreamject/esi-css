@@ -1,0 +1,57 @@
+@-moz-document domain("youtube.com") {
+/*01122014*/
+.video-time {
+height: 19px !important;
+}
+.guide-channels-list .guide-channel a {
+position: relative;
+  width: 225px !important;
+}
+.guide-item .display-name {
+width: 181px !important;
+}
+/*баг с названием */
+div.vve-check {
+    padding-bottom: 5px;
+}
+
+
+/*:D ЕСИ - это просто*/
+* {line-height: /*[[lh]]*/  !important; font-size:/*[[size]]*/ !important}
+li.yt-uix-scroller-scroll-unit {
+    height: 70px  !important;
+}
+div.vve-check {
+    padding: 0 !important;
+}
+div.watch-sidebar-gutter.yt-card.yt-card-has-padding.yt-uix-expander.yt-uix-expander-collapsed {
+    width: 430px !important;
+}
+
+
+span.display-name {
+    width: 160px !important;
+}
+
+#guide-container {
+    padding: 0 !important;
+}
+
+div.branded-page-v2-secondary-col {
+    width: 250px !important;
+}
+
+div.c4-checklist-module.branded-page-box.yt-card {
+    width: 250px !important;
+}
+
+h4.todo-title-text {
+    width: 180px !important;
+}
+
+button.yt-uix-button.yt-uix-button-size-default.yt-uix-button-subscribe-unbranded.yt-uix-button-has-icon.yt-uix-subscription-button.yt-can-buffer.yt-uix-hovercard.yt-uix-tooltip {
+    height: auto !important;
+}
+
+
+}
