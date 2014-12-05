@@ -1,0 +1,65 @@
+@-moz-document domain("ok.ru"), domain("odnoklassniki.ru") {
+.mus_card_n {
+max-height: 60px !important;
+}
+.panelRounded_head_header {
+position: relative;
+border-bottom: none !important;
+}
+A {
+    text-decoration: none    !important;
+    color: #117700 ;
+}
+
+A:hover {
+    text-decoration: underline    !important;
+}
+
+a {
+    font-size: /*[[size]]*/   !important;
+}
+
+div {
+    font-family: tahoma   !important;
+    font-size: /*[[size]]*/   !important;
+    line-height: 136%  !important;
+}
+
+font {
+    font-size: /*[[size]]*/   !important;
+}
+
+input {
+    font-size: /*[[size]]*/   !important;
+}
+
+p {
+    font-size: /*[[size]]*/   !important;
+}
+
+select {
+    font-size: /*[[size]]*/   !important;
+}
+
+span {
+    font-size: /*[[size]]*/   !important;
+    line-height: 136%  !important;
+}
+
+td {
+    font-size: /*[[size]]*/   !important;
+}
+
+textarea {
+    font-size: /*[[size]]*/   !important;
+}
+
+ul {
+    font-size: /*[[size]]*/   !important;
+}
+
+div.toolbar_nav_i_tx-w.usel-off {
+    font-size: 12px !important;
+}
+*{line-height:/*[[lh]]*/ !important}
+}
